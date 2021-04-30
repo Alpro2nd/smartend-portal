@@ -16,3 +16,11 @@
 7. create new db with the name 'smartend' (without quotation mark)
 8. inside the db, import the sql file smartend_db.sql
 9. now portal should work, type http://localhost:8080/ in your browser
+
+<hr>
+
+some references :
+1. AOS Demo
+```sh http://michalsnik.github.io/aos/ ```
+2. AOS GitHub page
+```sh https://github.com/michalsnik/aos ```
