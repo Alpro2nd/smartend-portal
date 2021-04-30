@@ -21,6 +21,6 @@
 
 some references :
 1. AOS Demo
-```sh http://michalsnik.github.io/aos/ ```
+``` http://michalsnik.github.io/aos/ ```
 2. AOS GitHub page
-```sh https://github.com/michalsnik/aos ```
+``` https://github.com/michalsnik/aos ```
