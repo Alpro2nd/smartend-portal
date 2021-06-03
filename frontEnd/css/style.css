@@ -2371,3 +2371,7 @@ li {
 .sticky + .contents {
     padding-top: 135px;
 }
+
+.head-desc{
+    font-size: 120% !important;
+}

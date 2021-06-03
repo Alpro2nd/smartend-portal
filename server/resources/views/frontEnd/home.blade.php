@@ -35,6 +35,10 @@
         ?>
         <section class="content-row-no-bg">
             <div class="container">
+            <div class="home-row-head">
+                            <h2 class="heading">{{ trans('frontLang.homeContents0Title') }}</h2>
+                            <small class="head-desc" class="head-desc" class="head-desc">{{ trans('frontLang.homeContents0desc') }}</small>
+                        </div>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="row" style="margin-bottom: 0;">
@@ -85,7 +89,7 @@
                     <div class="col-lg-12">
                         <div class="home-row-head">
                             <h2 class="heading">{{ trans('frontLang.homeContents1Title') }}</h2>
-                            <small>{{ trans('frontLang.homeContents1desc') }}</small>
+                            <small class="head-desc" class="head-desc" class="head-desc">{{ trans('frontLang.homeContents1desc') }}</small>
                         </div>
                         <div class="row">
                             <?php
@@ -351,7 +355,7 @@
                     <div class="col-lg-12">
                         <div class="home-row-head">
                             <h2 class="heading">{{ trans('frontLang.homeContents2Title') }}</h2>
-                            <small>{{ trans('frontLang.homeContents2desc') }}</small>
+                            <small class="head-desc" class="head-desc" class="head-desc">{{ trans('frontLang.homeContents2desc') }}</small>
                         </div>
                         <div class="row">
                             <section id="projects">
@@ -440,7 +444,7 @@
                     <div class="col-lg-12">
                         <div class="home-row-head">
                             <h2 class="heading">{{ trans('frontLang.partners') }}</h2>
-                            <small>{{ trans('frontLang.partnersMsg') }}</small>
+                            <small class="head-desc" class="head-desc" class="head-desc">{{ trans('frontLang.partnersMsg') }}</small>
                         </div>
                     </div>
                 </div>
