@@ -114,11 +114,11 @@ html[xmlns] .slides {
     font-size: 14px !important;
     line-height: 22px;
     font-weight: 300;
-    color: #fff
+    color: #656565
 }
 
 .flex-caption h2, .flex-caption h4 {
-    color: #fff;
+    color: #d16400;
 }
 
 /* Direction Nav */

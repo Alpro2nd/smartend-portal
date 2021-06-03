@@ -18,7 +18,7 @@
         $slug_var = "seo_url_slug_" . trans('backLang.boxCode');
         $slug_var2 = "seo_url_slug_" . trans('backLang.boxCodeOther');
         ?>
-        <div class="navbar-collapse collapse ">
+        <div class="navbar-collapse collapse navbar-nav mr-auto">
             <ul class="nav navbar-nav">
                 <?php
                 $link_title_var = "title_" . trans('backLang.boxCode');

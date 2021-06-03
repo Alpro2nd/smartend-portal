@@ -24,13 +24,13 @@
 
         $col_width = 12;
         if (count($TextBanners) == 2) {
-            $col_width = 6;
+            $col_width = 4;
         }
         if (count($TextBanners) == 3) {
             $col_width = 4;
         }
         if (count($TextBanners) > 3) {
-            $col_width = 3;
+            $col_width = 4;
         }
         ?>
         <section class="content-row-no-bg">

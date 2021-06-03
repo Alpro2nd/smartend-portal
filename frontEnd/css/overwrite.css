@@ -892,6 +892,7 @@ a.btn,.btn:focus {
 .navbar .nav {
     border-right:none;
     border-left:none;
+    margin: 0 0 0 40px;    
 }
 
 .navbar .nav > li > a {
