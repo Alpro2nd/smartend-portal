@@ -43,7 +43,7 @@
                     <div class="col-lg-12">
                         <div class="row" style="margin-bottom: 0;">
                             @foreach($TextBanners as $TextBanner)
-                                <div class="col-lg-{{$col_width}}" data-aos="fade-up">
+                                <div class="col-lg-{{$col_width}}" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="100"  data-aos-delay="100">
                                     <div class="box">
                                         <div class="box-gray aligncenter">
                                             @if($TextBanner->code !="")

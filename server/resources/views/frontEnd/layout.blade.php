@@ -3,6 +3,7 @@
 <head>
     @include('frontEnd.includes.head')
     @include('frontEnd.includes.colors')
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 <?php
 $bdy_class = "";
@@ -74,5 +75,9 @@ if (Helper::GeneralSiteSettings("style_type")) {
         }
     </script>
 @endif
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>

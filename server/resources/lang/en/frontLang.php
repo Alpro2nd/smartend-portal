@@ -51,7 +51,7 @@ return array (
   'newComment' => 'Add New Comment',
   'refresh' => 'Refresh',
   'getInTouch' => 'Get in touch with us by filling contact form below',
-  'homeContents0Title' => 'Main Subject',
+  'homeContents0Title' => 'Services',
   'homeContents0desc' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leoi.',
   'homeContents1Title' => 'Latest Articles',
   'homeContents1desc' => 'The latest articles from our blog, you can browse more',

@@ -186,7 +186,7 @@ header .navbar-nav > li > a {
 }
 
 .dropdown-menu li a:hover {
-    color: #fff !important;
+    color: #d16400 !important;
 }
 
 header .nav .caret {
@@ -314,11 +314,11 @@ select.selectmenu {
 
 #featured .flexslider {
     padding: 0;
-    margin: -25px 0px 0px;
     background: #fff;
     position: relative;
     zoom: 1;
     overflow: hidden;
+    height: 100%;
 }
 
 .flex-caption {
